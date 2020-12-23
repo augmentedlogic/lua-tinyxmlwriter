@@ -1,10 +1,3 @@
-# lua-tinyxmlwriter
-
-A minimal lua module to write XML
-
-## Usage Example
-
-```lua
 local tinyxmlwriter = require 'tinyxmlwriter'
 
 local xml = tinyxmlwriter.new()
@@ -35,4 +28,6 @@ print(output)
 
 -- only needed if you want to start a new document
 xml:flush()
-```
+
+
+

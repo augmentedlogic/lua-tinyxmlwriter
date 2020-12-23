@@ -1,0 +1,5 @@
+debian/lua-tinyxmlwriter/
+debian/lua-tinyxmlwriter.substvars
+debian/debhelper-build-stamp
+debian/lua-tinyxmlwriter.debhelper.log
+debian/files

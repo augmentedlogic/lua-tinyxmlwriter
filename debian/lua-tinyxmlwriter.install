@@ -1,0 +1,3 @@
+src/tinyxmlwriter.lua usr/share/lua/5.1
+src/tinyxmlwriter.lua usr/share/lua/5.2
+src/tinyxmlwriter.lua usr/share/lua/5.3

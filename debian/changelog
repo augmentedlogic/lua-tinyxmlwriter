@@ -1,0 +1,5 @@
+lua-tinyxmlwriter (0.2-1) unstable; urgency=low
+  * fixed debian package build
+
+ -- augmentedlogic development <dev@augmentedlogic.com>  Sun, 8 Jun 2014 9:12:16 +0000
+

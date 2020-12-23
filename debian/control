@@ -1,0 +1,14 @@
+Source: lua-tinyxmlwriter
+Priority: optional
+Section: interpreters
+Maintainer: Wolfgang Hauptfleisch <wh@augmentedlogic.com>
+Homepage: https://developer.augmentedlogic.com/project/lua-tiny-xmlwriter
+
+Package: lua-tinyxmlwriter
+Architecture: all
+Section: utils
+Priority: optional
+Depends: lua
+Description: xml writer module for lua
+ simple xmlwriter module for the lua scripting language
+
